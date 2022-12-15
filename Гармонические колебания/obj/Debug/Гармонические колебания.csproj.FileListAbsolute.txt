@@ -1,0 +1,39 @@
+C:\Users\bruce\source\repos\Гармонические колебания\Гармонические колебания\bin\Debug\Гармонические колебания.exe.config
+C:\Users\bruce\source\repos\Гармонические колебания\Гармонические колебания\bin\Debug\Гармонические колебания.exe
+C:\Users\bruce\source\repos\Гармонические колебания\Гармонические колебания\bin\Debug\Гармонические колебания.pdb
+C:\Users\bruce\source\repos\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические колебания.csprojAssemblyReference.cache
+C:\Users\bruce\source\repos\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические_колебания.Form1.resources
+C:\Users\bruce\source\repos\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические_колебания.Form2.resources
+C:\Users\bruce\source\repos\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические_колебания.Properties.Resources.resources
+C:\Users\bruce\source\repos\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические колебания.csproj.GenerateResource.cache
+C:\Users\bruce\source\repos\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические колебания.csproj.CoreCompileInputs.cache
+C:\Users\bruce\source\repos\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические колебания.exe
+C:\Users\bruce\source\repos\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические колебания.pdb
+d:\Users\bruce\Desktop\Гармонические колебания\Гармонические колебания\bin\Debug\Гармонические колебания.exe.config
+d:\Users\bruce\Desktop\Гармонические колебания\Гармонические колебания\bin\Debug\Гармонические колебания.exe
+d:\Users\bruce\Desktop\Гармонические колебания\Гармонические колебания\bin\Debug\Гармонические колебания.pdb
+d:\Users\bruce\Desktop\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические колебания.csprojAssemblyReference.cache
+d:\Users\bruce\Desktop\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические_колебания.Form1.resources
+d:\Users\bruce\Desktop\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические_колебания.Form2.resources
+d:\Users\bruce\Desktop\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические_колебания.Properties.Resources.resources
+d:\Users\bruce\Desktop\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические колебания.csproj.GenerateResource.cache
+d:\Users\bruce\Desktop\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические колебания.csproj.CoreCompileInputs.cache
+d:\Users\bruce\Desktop\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические колебания.exe
+d:\Users\bruce\Desktop\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические колебания.pdb
+d:\Users\bruce\Desktop\C#\Гармонические колебания\Гармонические колебания\bin\Debug\Гармонические колебания.exe.config
+d:\Users\bruce\Desktop\C#\Гармонические колебания\Гармонические колебания\bin\Debug\Гармонические колебания.exe
+d:\Users\bruce\Desktop\C#\Гармонические колебания\Гармонические колебания\bin\Debug\Гармонические колебания.pdb
+d:\Users\bruce\Desktop\C#\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические колебания.csprojAssemblyReference.cache
+d:\Users\bruce\Desktop\C#\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические_колебания.Form1.resources
+d:\Users\bruce\Desktop\C#\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические_колебания.Form2.resources
+d:\Users\bruce\Desktop\C#\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические_колебания.Properties.Resources.resources
+d:\Users\bruce\Desktop\C#\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические колебания.csproj.GenerateResource.cache
+d:\Users\bruce\Desktop\C#\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические колебания.csproj.CoreCompileInputs.cache
+d:\Users\bruce\Desktop\C#\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические колебания.exe
+d:\Users\bruce\Desktop\C#\Гармонические колебания\Гармонические колебания\obj\Debug\Гармонические колебания.pdb
+d:\Users\bruce\Desktop\Гармонические колебания\Vibrocalculator\obj\Debug\Гармонические колебания.csprojAssemblyReference.cache
+d:\Users\bruce\Desktop\Гармонические колебания\Vibrocalculator\obj\Debug\Гармонические_колебания.Form1.resources
+d:\Users\bruce\Desktop\Гармонические колебания\Vibrocalculator\obj\Debug\Гармонические_колебания.Form2.resources
+d:\Users\bruce\Desktop\Гармонические колебания\Vibrocalculator\obj\Debug\Vibrocalculator.Properties.Resources.resources
+d:\Users\bruce\Desktop\Гармонические колебания\Vibrocalculator\obj\Debug\Гармонические колебания.csproj.GenerateResource.cache
+d:\Users\bruce\Desktop\Гармонические колебания\Vibrocalculator\obj\Debug\Гармонические колебания.csproj.CoreCompileInputs.cache
